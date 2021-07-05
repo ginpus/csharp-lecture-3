@@ -51,6 +51,7 @@ namespace lecture3
             {
                 count++;
             }
+
             return count;
         }
 
