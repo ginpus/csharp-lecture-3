@@ -19,7 +19,7 @@ namespace lecture3
         private static void HelloWorld()
         {
             Console.WriteLine("Hello Worlds!");
-            // nieko negrazina, nes yra void
+            // nieko negrazina, nes yra void (ir neturi return)
         }
 
         private static int Add(int a, int b)
