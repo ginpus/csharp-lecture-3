@@ -1,0 +1,15 @@
+F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\bin\Debug\net5.0\lecture3.exe
+F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\bin\Debug\net5.0\lecture3.deps.json
+F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\bin\Debug\net5.0\lecture3.runtimeconfig.json
+F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\bin\Debug\net5.0\lecture3.runtimeconfig.dev.json
+F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\bin\Debug\net5.0\lecture3.dll
+F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\bin\Debug\net5.0\ref\lecture3.dll
+F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\bin\Debug\net5.0\lecture3.pdb
+F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\obj\Debug\net5.0\lecture3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\obj\Debug\net5.0\lecture3.AssemblyInfoInputs.cache
+F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\obj\Debug\net5.0\lecture3.AssemblyInfo.cs
+F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\obj\Debug\net5.0\lecture3.csproj.CoreCompileInputs.cache
+F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\obj\Debug\net5.0\lecture3.dll
+F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\obj\Debug\net5.0\ref\lecture3.dll
+F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\obj\Debug\net5.0\lecture3.pdb
+F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\obj\Debug\net5.0\lecture3.genruntimeconfig.cache
