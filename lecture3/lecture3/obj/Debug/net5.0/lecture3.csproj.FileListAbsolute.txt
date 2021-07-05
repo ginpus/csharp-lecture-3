@@ -13,3 +13,4 @@ F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\obj\Debug\net5.0\lecture3.dll
 F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\obj\Debug\net5.0\ref\lecture3.dll
 F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\obj\Debug\net5.0\lecture3.pdb
 F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\obj\Debug\net5.0\lecture3.genruntimeconfig.cache
+F:\Desktop\dotNET\C#\7.5\lecture3\lecture3\obj\Debug\net5.0\lecture3.csproj.AssemblyReference.cache
